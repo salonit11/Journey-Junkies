@@ -1,0 +1,293 @@
+[{
+  "_id": {
+    "$oid": "650d31ea816667f45a3d987c"
+  },
+  "title": "Westminister Bridge",
+  "city": "London",
+  "address": "Somewhere in London",
+  "distance": 300,
+  "price": 99,
+  "maxGroupSize": 10,
+  "desc": "Westminster Bridge is one of the oldest bridges spanning London's River Thames. Walk across the bridge and admire picturesque views of London and see the iconic South Bank Lion. Constructed in 1862, the Westminster Bridge is one of the oldest of many bridges spanning the River Thames. With sites and cultural hubs like the National Portrait Gallery, Trafalgar Square, the Tower of London, Tower Bridge, Kensington Gardens, and all manner of food, drink, shopping, history, and culture, it's no wonder why the 'Big Smoke' is a top travel destination. https://traveltriangle.com/blog/best-places-to-visit-in-london/",
+  "reviews": [
+    {
+      "$oid": "650db3c9e9a1b0d817fd06aa"
+    }
+  ],
+  "photo": "/tour-images/tour-img01.jpg",
+  "featured": true,
+  "updatedAt": {
+    "$date": "2023-09-22T15:33:29.511Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "650d31ea816667f45a3d987d"
+  },
+  "title": "Bali, Indonesia",
+  "city": "Bali",
+  "address": "Somewhere in Indonesia",
+  "distance": 400,
+  "price": 99,
+  "maxGroupSize": 8,
+  "desc": "As magical destinations go, Bali is definitely up there. There are the awe-inspiring temples in the tens of thousands — literally — and near-daily ceremonies: vivid, multi-sensory, and loud, accompanied by chanting and clanging gamelan. Add to that endless beaches trimmed in aquamarine surf, pulsing with relentlessly curling waves topped with dancing surfers. There are miles and miles of verdant rice paddies, terraced so immaculately they've become iconic. And don't forget canang sari, the prolific flower-laden offerings blessed and placed seemingly everywhere daily on the so-called \"Island of Gods.\"  Bali has an energy about it that acts as a siren song to woo-woo wellness practitioners, design buffs, and carousing Gen Z-ers in equal numbers, along with stoked surfers, spiritual pilgrims, yogis, beach lovers, plus plenty of celebrities and influencers to boot. And the most fulfilling and thrilling Bali holidays include a few locations, so don't stress about picking just one vibe or scene — it's best to combine a few, or two if you're short on time.  Enjoy island time and the locals who are overwhelmingly generous, sweet, and genuine. All factors considered, it's nearly impossible not to leave Bali feeling far better — happier, healthier, and definitely more tan — than when you landed. https://www.planetware.com/tourist-attractions-/bali-ina-b-b.htm",
+  "reviews": [],
+  "photo": "/tour-images/tour-img02.jpg",
+  "featured": true
+},
+{
+  "_id": {
+    "$oid": "650d31ea816667f45a3d987e"
+  },
+  "title": "Snowy Mountains, Australia",
+  "city": "Snowy Mountains",
+  "address": "Somewhere in Australia",
+  "distance": 500,
+  "price": 99,
+  "maxGroupSize": 8,
+  "desc": "The Snowy Mountains region is unlike any other. From dramatic summits to breathtaking ravines, challenging adventure to tranquil solitude; its capacity for contrasts never ceases to surprise and inspire. Now’s the time to discover the Snowies for yourself. https://www.planetware.com/australia/snowy-mountains-aus-nsw-sm.htm",
+  "reviews": [],
+  "photo": "/tour-images/tour-img03.jpg",
+  "featured": true
+},
+{
+  "_id": {
+    "$oid": "650d31ea816667f45a3d987f"
+  },
+  "title": "Beautiful Sunrise, Thailand",
+  "city": "Phuket",
+  "address": "Somewhere in Thailand",
+  "distance": 500,
+  "price": 99,
+  "maxGroupSize": 8,
+  "desc": "The places to visit in Phuket are endowed with some of the best elements of nature like a colorful coastline with beach shacks, and exotic golden sand beach where you can unwind and rejuvenate. You will get to enjoy an ultimate sightseeing experience as well as indulge in mind blowing nightlife experiences and thrilling watersports.  Some of the popular tourist places in Phuket like Karon Viewpoint offer you a glittering view of blue ocean, snow-white surfs, white-sand beaches, and the deep green colours of the island's hillsides, Laem Singh Beach lets you swim and snorkel.  While tourist attractions in Phuket like Sirinat National Park is renowned for its white sand beaches, Bang Pae Waterfall is known for its popular picnic and swimming experience. When Wat Chalong takes you on a cultural and heritage tour through its  historic sites and Buddhist temples, the secluded setting of Maya Bay gives you a chance to spend some priceless moments with your beloved partner.  If you are planning for a vacation to Phuket then do check out some of the top rated Phuket places to visit where you can create new fangled memories. https://traveltriangle.com/blog/places-to-visit-in-phuket/",
+  "reviews": [],
+  "photo": "/tour-images/tour-img04.jpg",
+  "featured": true
+},
+{
+  "_id": {
+    "$oid": "650d31ea816667f45a3d9880"
+  },
+  "title": "Nusa Pendia Bali, Indonesia",
+  "city": "Bali",
+  "address": "Somewhere in Indonesia",
+  "distance": 500,
+  "price": 99,
+  "maxGroupSize": 8,
+  "desc": "Nusa Penida, a stunning island located off the southeast coast of Bali in Indonesia, has rugged landscapes, dramatic cliffs, and crystal-clear turquoise waters. It’s truly one of my favorite places to visit in all of Indonesia. From breathtaking viewpoints like Kelingking Beach and Angel’s Billabong to pristine beaches such as Crystal Bay and Atuh Beach, the island is a paradise for sightseeing and photography. Diving and snorkeling lovers can immerse themselves in the vibrant underwater world, encountering magnificent Giant Manta Rays and colorful coral reefs. For those seeking some chill vibes, the peaceful coastal roads provide serene escapes. With its natural wonders and untamed beauty, Nusa Penida offers an unforgettable experience for every traveler. https://www.saltinourhair.com/bali/things-to-do-nusa-penida/",
+  "reviews": [],
+  "photo": "/tour-images/tour-img05.jpg",
+  "featured": true
+},
+{
+  "_id": {
+    "$oid": "650d31ea816667f45a3d9881"
+  },
+  "title": "Cherry Blossoms Spring",
+  "city": "Tokyo",
+  "address": "Somewhere in Japan",
+  "distance": 500,
+  "price": 99,
+  "maxGroupSize": 8,
+  "desc": "Tokyo is a city of surprises — ancient temples are nestled among modern skyscrapers and you're just as likely to see someone wearing a cosplay costume as you are to see someone dressed in a traditional kimono. And even though Tokyo is the most populated city in the world, the streets can be almost eerily silent. You'll find every modern convenience (and then some), but because Japan was closed off to the rest of the world for many years, tech evolved in a way that reflects the Japanese psyche, English is not widely spoken, and the far-reaching effect of globalization is still minimal. It is a true breath of fresh air among the myriad destinations that lost themselves in their quest to cater to tourists and meet global ideals. These contradictions and surprises make Tokyo a city that leaves you curious, fascinated, and wanting more. In a single day you can visit a 7th-century temple, order ramen from a vending machine, and watch a sumo match. There is no shortage of things to do, see, and eat in Tokyo, and while its citizens tend to be respectful and accommodating, they too, like to keep you on your toes. Swing by a maid cafe or a Babymetal concert and you'll know what I mean. https://traveltriangle.com/blog/places-to-visit-in-tokyo/",
+  "reviews": [],
+  "photo": "/tour-images/tour-img06.jpg",
+  "featured": true
+},
+{
+  "_id": {
+    "$oid": "650d31ea816667f45a3d9882"
+  },
+  "title": "Holmen Lofoten, France",
+  "city": "Paris",
+  "address": "Somewhere in France",
+  "distance": 500,
+  "price": 99,
+  "maxGroupSize": 8,
+  "desc": "Paris is a city unlike any other. It is overflowing with culture, history, and beauty. And while people travel to Paris to see the Louvre, climb the Eiffel Tower, or see Notre-Dame, the real magic is found in the streets. Here, the ins and outs of daily life play out — chic women on bikes pedal their children to school, artists post up in cafés with a notebook, and both young and old line up morning and evening for a fresh baguette from the neighborhood boulangerie. It is likely everything you imagined, and then a bit more — because while Paris is a city with a strong cultural identity, it also houses people from all over the world who add their own culture and customs into the mix. This is why a visit to Paris' top sights is simply not enough — to truly get a sense of the city, take to the streets where the essence and enchantment of Paris is most felt. As you explore the streets of Paris, you'll find yourself walking the hills of Montmartre in search of that perfect crepe spot or meandering through Belleville, a Chinese neighborhood interspersed with hip, young Parisians and elaborate murals. Across the Seine, you might find yourself enjoying an all-too-early verre du vin at a café in Saint-Germain-des-Prés or exploring the winding streets of the Latin Quarter. It doesn't take much to find yourself fully immersed in this special city. To make sure you don't miss a thing, take a moment to read through our Paris travel guide, where we share our favorite local haunts, must-do activities, and favorite hotels. https://www.cometoparis.com/paris-guide/what-to-do-in-paris-s938",
+  "reviews": [],
+  "photo": "/tour-images/tour-img07.jpg",
+  "featured": true
+},
+{
+  "_id": {
+    "$oid": "650d31ea816667f45a3d9884"
+  },
+  "title": "Jaflong, Sylhet-2",
+  "city": "Sylhet",
+  "address": "Somewhere in Sylhet",
+  "distance": 100,
+  "price": 99,
+  "maxGroupSize": 5,
+  "desc": "Jaflong is a wonderful tourist spot 56 kilometers away from the Sylhet city. The Spot filled with mountains and streams offers a wide variety of experiences for the visitors. Here you will find the rolling rocks, crystal clear water of the Goain River abound with fish and other aquatic features. The indigenous people khasia live in this region for thousands of years whose colorful lifestyle is a lifetime experience for you. Located in Gowainghat Upazila of Sylhet District. https://porzoton.com/jaflong/",
+  "reviews": [],
+  "photo": "/tour-images/tour-img08.jpg",
+  "featured": false
+},
+{
+  "_id": {
+    "$oid": "650d31ea816667f45a3d9885"
+  },
+  "title": "Cox's Bazar Sea Beach-2",
+  "city": "Chittagong",
+  "address": "Somewhere in Chittagong",
+  "distance": 500,
+  "price": 99,
+  "maxGroupSize": 8,
+  "desc": "Cox’s Bazar, 'Miles of golden sands, towering cliffs, surfing waves, rare conch shells, colorful pagodas and Buddhist temples, the tribes with their environmental wisdom and spirituality and delicious seafood are some wonderful aspects of Cox’s Bazaar, the longest unbroken sandy beach and tourist capital of Bangladesh. There are exciting opportunities to enjoy surfing, jogging, and other beach activities. Near the beachfront, there are hundreds of shops selling souvenirs and beach accessories. You can see hills, green valleys, and the sea all at once. Five Star and economy hotels are available.https://mybangla24.com/best-things-to-do-in-coxs-bazar",
+  "reviews": [],
+  "photo": "/tour-images/tour-img09.jpg",
+  "featured": false
+},
+{
+  "_id": {
+    "$oid": "650d31ea816667f45a3d9886"
+  },
+  "title": "Cape Town",
+  "city": "Cape Town",
+  "address": "Somewhere in South Africa",
+  "distance": 300,
+  "price": 79,
+  "maxGroupSize": 10,
+  "desc": "Cape Town is South Africa's crown jewel and the most European city you'll find on the continent. Founded by the Dutch East India Company in 1652, it was South Africa's first attempt at a modern metropolis, earning it the nickname 'The Mother City'. Because of its strategic location at the southwestern tip of Africa, for centuries it played an important role in global trade. Today it's one of South Africa's three capital cities. https://traveltriangle.com/blog/places-to-visit-in-cape-town/",
+  "reviews": [],
+  "photo": "/tour-images/tour-img10.jpeg",
+  "featured": true
+},
+{
+  "_id": {
+    "$oid": "650d31ea816667f45a3d9887"
+  },
+  "title": "Rome,Italy",
+  "city": "Rome",
+  "address": "Somewhere in Italy",
+  "distance": 400,
+  "price": 119,
+  "maxGroupSize": 8,
+  "desc": "Rome is a city full of museums, squares, Roman landmarks and other highlights. The Italian city has more to offer than just the main Rome tourist attractions like the Colosseum, the Pantheon and St. Peter’s Basilica in Vatican City. During your visit to this city, these are the top 10 of the most famous sightseeing and most popular Rome attractions.https://traveltriangle.com/blog/tourist-places-in-rome/",
+  "reviews": [],
+  "photo": "/tour-images/tour-img11.jpeg",
+  "featured": true,
+  "updatedAt": "2023-09-22T05:31:16.000Z"
+},
+{
+  "_id": {
+    "$oid": "650d3a3a816667f45a3d9889"
+  },
+  "title": "Amsterdam, Netherlands",
+  "city": "Amsterdam",
+  "address": "Somewhere in Netherlands",
+  "distance": 300,
+  "price": 139,
+  "maxGroupSize": 8,
+  "desc": "Iconic canals, centuries-old townhomes, cobblestone lanes, and flower-adorned bridges.Amsterdam is as pretty as a postcard with charm in spades. It's also one of the rare places that attracts history buffs, luxury-minded travelers, couples seeking romance, and backpackers alike.Besides cultural attractions like the Anne Frank House and Rijksmuseum, the Dutch capital has leafy parks, hip shops, and an enduring sense of the past that thankfully never fades. With world-class museums, bicycle tours, and a thriving arts scene, it's really just a matter of culling it down to a select few activities. Since wandering around the city's quaint streets and sitting outside at a sidewalk cafe is so appealing, you won't want to cram too much into your daytime itinerary. Simply put: whatever your idealized version of a European getaway entails, Amsterdam won't disappoint.https: //traveltriangle.com/blog/places-to-visit-in-amsterdam/",
+  "reviews": [],
+  "photo": "/tour-images/tour-img14.jpeg",
+  "featured": false
+},
+{
+  "_id": {
+    "$oid": "650d3a3a816667f45a3d988b"
+  },
+  "title": "Berlin, Germany",
+  "city": "Berlin",
+  "address": "Somewhere in Germany",
+  "distance": 400,
+  "price": 99,
+  "maxGroupSize": 12,
+  "desc": "Berlin is a place of stark contrasts. On one hand, reminders of its turbulent past are everywhere. But it's also a modern megalopolis—that's geographically nine times bigger than Paris—with exciting new attractions and an inherent subversiveness. This juxtaposition makes it a destination unlike any other.An artsy mecca with a slew of galleries and eccentric installations, Berlin transformed the last pieces of the wall that once divided it into a permanent open-air exhibition.Overwhelmed? Berlin tends to have that effect on out-of-towners. Checkout this guide to help plan your first (or next) trip.https: //traveltriangle.com/blog/places-to-visit-in-berlin/",
+  "reviews": [],
+  "photo": "/tour-images/tour-img15.jpg",
+  "featured": false
+},
+{
+  "_id": {
+    "$oid": "650d3a3a816667f45a3d988c"
+  },
+  "title": "Dubai, UAE",
+  "city": "Dubai",
+  "address": "Somewhere in UAE",
+  "distance": 100,
+  "price": 199,
+  "maxGroupSize": 15,
+  "desc": "Dublin is a city brimming with history, from centuries-old cathedrals to stately manors that line the winding streets. Institutions like Dublin Castle, the National Gallery of Ireland, and St. Patrick's Cathedral have long drawn tourists looking to catch a glimpse of the city's rich history, while places like Trinity College highlight Dublin's literary past — after all, there's a reason the city is called 'the land of saints and scholars.' So whether it's history, architecture, or literature that piques your interest, or you're most focused on food and spirits, there's plenty to keep you busy on your next trip to Dublin. Here, our favorite spots in 'The Pale.'https: //traveltriangle.com/blog/places-to-visit-in-dubai-at-night/",
+  "reviews": [],
+  "photo": "/tour-images/tour-img16.jpg",
+  "featured": false
+},
+{
+  "_id": {
+    "$oid": "650d3a3a816667f45a3d988d"
+  },
+  "title": "Florence, Italy",
+  "city": "Florence",
+  "address": "Somewhere in Italy",
+  "distance": 300,
+  "price": 199,
+  "maxGroupSize": 10,
+  "desc": "Michelangelo here, Donatello there. As the cradle of the Renaissance, Florence was the city that brought you all those household names – and they're all still here. The famed Uffizi Galleries and the Accademia are just the start – this is a city stuffed to the gills with museums, galleries, and masterpieces aplenty. Churches are full of frescoed chapels and heavily pigmented crucifixes. Houses are hulking palaces, built with hand-hewn, human-sized stones. Even the stores come with ancient beams and painted ceilings. Sometimes, the beauty is overwhelming.That's where the other Florence comes in. This is a city surrounded by nature like no other. Cross the Ponte Vecchio and the river Arno is the Oltrarno district, home to cobblestone piazzas, laidback cafes, and artisans plying centuries-old trades. You can stroll along the riverside, explore exquisite gardens laid out in the Renaissance, or wind around cypress-studded hills. At every turn, you'll get killer views of the city and its gargantuan terracotta dome, standing out against the mountains in the distance. In Florence, even the landscape is art.https: //traveltriangle.com/blog/places-to-visit-in-florence/",
+  "reviews": [],
+  "photo": "/tour-images/tour-img17.jpg",
+  "featured": false
+},
+{
+  "_id": {
+    "$oid": "650d3a3a816667f45a3d988f"
+  },
+  "title": "Reykjavík, Iceland",
+  "city": "Reykjavík",
+  "address": "Somewhere in Iceland",
+  "distance": 300,
+  "price": 299,
+  "maxGroupSize": 10,
+  "desc": "Iceland has quickly become one of the top travel destinations in the world, but it still feels like a well-kept secret. Perhaps that's because of its stunning natural beauty, or the swaths of open land with nothing but Icelandic horses and occasional waterfalls to remind you that you aren't completely alone. It is a country of not only natural wonder, but also thriving local culture, known for hospitality and a strong national pride in its history and mythology.From the Blue Lagoon to the iconic Skogafoss waterfall, Iceland's scenery is the stuff of legend — sometimes quite literally, as many of its most well-known destinations have been referenced in Viking mythology and classic literature. When you visit, prepare to be awash in natural beauty; around every bend in the road is another vista so gorgeous it doesn't seem quite real.https: //www.nordicvisitor.com/blog/where-best-places-visit-iceland/",
+  "reviews": [],
+  "photo": "/tour-images/tour-img18.jpg",
+  "featured": false
+},
+{
+  "_id": {
+    "$oid": "650d3a3a816667f45a3d9890"
+  },
+  "title": "Los Angeles, California",
+  "city": "Los Angeles",
+  "address": "Somewhere in California",
+  "distance": 100,
+  "price": 109,
+  "maxGroupSize": 7,
+  "desc": "Los Angeles, at around 500 square miles, is the largest city within Los Angeles County which includes more than 100 cities and communities. Known for its entertainment industry, miles of coastline, mountains, shopping, sports, ethnic diversity, and culture of creativity, L.A.'s vibe ranges from upscale to hip to surf-casual and everything between, defying a label for the city as a whole. Several areas comprise Los Angeles, mainly Downtown (DTLA), the Westside, West Hollywood, Hollywood, the Beach Cities, and the Valley, with other communities within those districts. Los Angeles International Airport (LAX), served by all major airlines, is about 16 miles from Downtown. Hollywood Burbank Airport (BUR), also known as Bob Hope Airport, is located about 20 minutes north of downtown. Union Station is the main railway station in Los Angeles, and it's the largest railroad passenger terminal in the western United States.Visitors seeking outdoor activities can choose mountain hikes, seaside bike rides, golf, boating, surfing, or just enjoying the sunshine.Spectator sports abound, and depending on the season, there's basketball, football, baseball, and soccer. Live theater, film complexes, museums, and art galleries provide opportunities for cultural activities. The Los Angeles dining scene boasts elegant restaurants, casual outdoor cafes, and ethnic foods that include Mexican, Chinese, Japanese, Ethiopian, Korean, Italian, Israeli, and many more. Fresh seafood from local waters and produce from California's farms are always available.https: //traveltriangle.com/blog/tourist-places-in-los-angeles/",
+  "reviews": [],
+  "photo": "/tour-images/tour-img19.jpg",
+  "featured": false
+},
+{
+  "_id": {
+    "$oid": "650d3a3a816667f45a3d9891"
+  },
+  "title": "Madrid, Spain",
+  "city": "Madrid",
+  "address": "Somewhere in Spain",
+  "distance": 150,
+  "price": 129,
+  "maxGroupSize": 11,
+  "desc": "There's far more to Madrid than bullfighting, flamenco, and tapas, though you'll certainly find all three in the Spanish capital. Named one of thebest cities to visit in EuropebyTravel + Leisurereaders and one of thebest places to travelby T+L editors in 2023, there's a little something for everyone in this incredible city.Art lovers can spend the day strolling around Madrid's Golden Triangle of Art, where three of the world's biggest museums meet. History buffs will love the city's gorgeous architecture and historic landmarks, including the oldest restaurant in the world and an Egyptian temple. (Yes, it's actually Egyptian.) And you can't go wrong with the booming food scene here — it's made Madridone of Europe's best food cities.Madrid offers so much to do that you may want to embrace the tradition of a midday siesta. The city's bars and clubs tend to hit their stride after midnight, so an afternoon nap may be just the fuel you need to transition from a day of sightseeing to a night of music and dance.https: //traveltriangle.com/blog/places-to-visit-in-madrid/",
+  "reviews": [],
+  "photo": "/tour-images/tour-img20.jpg",
+  "featured": false
+},
+{
+  "_id": {
+    "$oid": "650d3af7816667f45a3d9892"
+  },
+  "title": "Athens, Greece",
+  "city": "Athens",
+  "address": "Heart of Greece",
+  "distance": 200,
+  "price": 179,
+  "maxGroupSize": 10,
+  "desc": "Athens is the capital of Greece. It was also at the heart of Ancient Greece, a powerful civilization and empire. The city is still dominated by 5th-century BC landmarks, including the Acropolis, a hilltop citadel topped with ancient buildings like the colonnaded Parthenon temple",
+  "reviews": [],
+  "photo": "/tour-images/tour-img13.jpeg",
+  "featured": false
+}]
